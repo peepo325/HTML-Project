@@ -1,7 +1,7 @@
 html {
     scroll-behavior:smooth;
   }
-body{
+.body{
     background: #1f2235;
     font-family: "Baloo Tamma 2", cursive;
   }
