@@ -5,7 +5,7 @@ body{
     background: #1f2235;
     font-family: "Baloo Tamma 2", cursive;
   }
-  .m-heading {
+  #m-heading {
     font-family: "Roboto Slab", serif;
   }
   .navigation-link {
